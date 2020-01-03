@@ -1,0 +1,8 @@
+#include<avr/io.h> 
+#include<util/delay.h> //i/o file
+void main()
+{
+	DDRA=0b1;
+    PORTA=0b1;
+	
+}}
